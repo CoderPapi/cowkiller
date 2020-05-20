@@ -23,7 +23,7 @@ public class cowkiller extends Script implements Ending, Painting {
         System.out.println(" has initialized successfully!");
 
         while (true){
-
+        sleep(10);
 
 
 
